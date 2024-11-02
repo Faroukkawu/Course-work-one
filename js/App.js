@@ -46,7 +46,7 @@ const app = Vue.createApp({
                     img: "https://static.thenounproject.com/png/3844171-200.png",
                     subject: "BIOLOGY",
                     location: "Minnesota",
-                    price: 20,
+                    price: 65,
                     spaces: 5,
                 },
                 {
