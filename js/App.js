@@ -54,7 +54,7 @@ const app = Vue.createApp({
                     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKSZZs7eNHdUyzM-RsMLcHKxGUJP4NZf6YJQ&s",
                     subject: "MATHS",
                     location: "Mississippi",
-                    price: 2100,
+                    price: 70,
                     spaces: 5,
                 },
                 {
