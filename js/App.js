@@ -118,7 +118,7 @@ const app = Vue.createApp({
                     img: "https://cdn-icons-png.flaticon.com/512/2784/2784576.png",
                     subject: "Geography",
                     location: "Russia",
-                    price: 100,
+                    price: 160,
                     spaces: 5,
                 }
             ],
