@@ -86,7 +86,7 @@ const app = Vue.createApp({
                     img: "https://cdn-icons-png.flaticon.com/512/181/181964.png",
                     subject: "PHYSICS",
                     location: "Manchester",
-                    price: 70,
+                    price: 95,
                     spaces: 5,
                 },
                 {
