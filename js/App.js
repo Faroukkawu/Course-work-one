@@ -110,7 +110,7 @@ const app = Vue.createApp({
                     img: "https://media.istockphoto.com/id/1164017258/vector/palette-icon-art-icon-vector-illustration.jpg?s=612x612&w=0&k=20&c=RICnRIzARtvMEVLIoGa_qFj4ORmYjFiWvWEWbxyeUkk=",
                     subject: "ART",
                     location: "EGYPT",
-                    price: 95,
+                    price: 70,
                     spaces: 5,
                 },
                 {
